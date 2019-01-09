@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello sara welcome to gypt
+=======
+hello amira welcome to egypt
+>>>>>>> dev
